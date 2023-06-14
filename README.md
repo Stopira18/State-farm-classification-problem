@@ -12,4 +12,5 @@ Clean and prepare data set
 Build models
 
 Generate prediction
+
 Compare the two modelling approach
